@@ -1,7 +1,7 @@
 import telebot
 import datetime
 
-TOKEN = "BOT_TOKEN"
+TOKEN = "8716483413:AAEqs14n3l6hRrXC6hwAhkggTqI772ub-iY"
 
 bot = telebot.TeleBot(TOKEN)
 
